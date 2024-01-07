@@ -5,18 +5,18 @@
 
   "port": "3000",
   
-  "clientId": "00000000000000000",
-  "guildId": "0000000000000000000",
+  "clientId": "1045689905826779206",
+  "guildId": "1183643144999411713",
 
-  "status": "Made By ScienceGear 🔥",
-  "website": "https://youtube.com/ScienceGearYT",
+  "status": "Made By Legend 🔥",
+  "website": "https://discord.gg/alphaxm",
   "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
-  "footer": "Made By ScienceGear 🔥",
+  "footer": "Made By Legend 🔥",
 
-  "genChannel": "00000000000000000000",
-  "premiumChannel": "00000000000000000000",
-  "genCooldown": "5",
-  "premiumCooldown": "3",
+  "genChannel": "1187391681625084005",
+  "premiumChannel": "1187391820947263578",
+  "genCooldown": "21600",
+  "premiumCooldown": "5400",
 
   "color": {
     "green": "0x57F287",
